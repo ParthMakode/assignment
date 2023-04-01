@@ -20,6 +20,6 @@ From there the json response is decoded and then made into a list of recipe clas
 Built a list of items with LISTview builder and added a gesture detector to detect tapping o the widget.
 After the widget is tapped navigator pushes the detail screen with a list of passed arguments.
 These passed arguments then are used to display all information on the detail screen.
-2
+
 
 apk file is available for use as app.apk
