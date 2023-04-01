@@ -10,7 +10,8 @@ I finally found an API with decent data . (Recipe by API-Ninjas).
 I then Used the API to make a list of Recipe titles and number of servings.
 I then provided with ingredient list and instructions for the recipe.
 
-#Approach
+# Approach
+
 created main.dart file and added a home page and a detail page.
 created a recipe widget and detail widget seperately after viewing the API response structure and data.
 created a recipe class in which we will store the data from the response after decoding.
